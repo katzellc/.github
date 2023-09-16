@@ -1,9 +1,8 @@
-### KatzeLLC Company.
+### KatzeLLC Company.  (Soluciones y Automatizaciones)
 #### Sub ORG: **HaliaCraft & VirtualPixel**
 
 Proyectos Activos: TBX-WBHOOK | MANO-PANEL
 
-Habilidades: Soluciones y Automatizaciones
 
 
 
