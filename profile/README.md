@@ -1,6 +1,5 @@
 ### KatzeLLC Company.
 #### Sub ORG: **HaliaCraft & VirtualPixel**
-![Sub ORG: **HaliaCraft & VirtualPixel**](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Proyectos Activos: TBX-WBHOOK | MANO-PANEL
 
